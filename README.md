@@ -90,10 +90,24 @@ enzyme-kinetics-plotter/
 ├── README.md
 └── enzyme_kinetics_plots.png
 ```
+---
 
+---
 ## 🎯 Project Objective
 
 This project demonstrates the application of Python programming, scientific computing, nonlinear regression, and data visualization in biochemical research.
+
+## 📊 Project Results
+
+The project generates two scientific visualizations:
+
+### 1. Michaelis-Menten Plot
+Shows the relationship between substrate concentration and initial reaction velocity.
+
+### 2. Lineweaver-Burk Plot
+Displays the double-reciprocal relationship for enzyme kinetics analysis.
+
+![Enzyme Kinetics Results](enzyme_kinetics_plots.png)
 
 ## 👨‍💻 Author
 
