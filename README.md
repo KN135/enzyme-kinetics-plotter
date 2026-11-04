@@ -97,7 +97,7 @@ This project demonstrates the application of Python programming, scientific comp
 
 ## 👨‍💻 Author
 
-YOUR NAME
+KANUMURI NISSI
 
 GitHub: https://github.com/KN135
 
